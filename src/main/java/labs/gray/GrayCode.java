@@ -1,4 +1,4 @@
-package labs.Gray;
+package labs.gray;
 
 import labs.MinimalOrderChangeElement;
 
